@@ -5,4 +5,4 @@ The dataset here is a sample of the transactions made in a retail store. The sto
 
 Classification problem can also be settled in this dataset since several variables are categorical, and some other approaches could be "Predicting the age of the consumer" or even "Predict the category of goods bought". This dataset is also particularly convenient for clustering and maybe find different clusters of consumers within it.
 
-**Data : https://www.kaggle.com/mehdidag/black-friday/downloads/BlackFriday.csv/1
+**Data** : https://www.kaggle.com/mehdidag/black-friday/downloads/BlackFriday.csv/1
